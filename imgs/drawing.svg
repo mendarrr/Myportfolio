@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg570"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview572"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69664703"
+     inkscape:cx="38.757074"
+     inkscape:cy="560.54212"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs567">
+    <font
+       horiz-adv-x="1024"
+       id="font664"
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0">
+      <font-face
+         units-per-em="1024"
+         id="font-face666"
+         font-family="SVGFont 1"
+         ascent="0"
+         descent="0"
+         x-height="0"
+         cap-height="0" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph668" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font670"
+       inkscape:label="font 2"
+       horiz-origin-y="16"
+       horiz-origin-x="16">
+      <font-face
+         units-per-em="1024"
+         id="font-face672"
+         font-family="Vivaldi"
+         ascent="16"
+         descent="16"
+         cap-height="16"
+         x-height="16" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph674" />
+      <glyph
+         glyph-name="glyph 1"
+         id="glyph676" />
+      <glyph
+         glyph-name="glyph 2"
+         id="glyph678" />
+    </font>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000"
+       id="path632"
+       sodipodi:cx="242.299"
+       sodipodi:cy="456.20865"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="68.444656"
+       sodipodi:argument="-20.848051"
+       sodipodi:t0="0"
+       d="m 242.299,456.20865 c -1.4234,-3.12259 3.50693,-3.45929 5.18994,-2.36578 4.56086,2.96333 2.97921,9.63278 -0.45839,12.74567 -6.14906,5.56823 -15.71957,2.91255 -20.30139,-3.28256 -6.72401,-9.09156 -2.87613,-21.90057 6.10672,-27.85711 11.97273,-7.93913 28.11656,-2.85453 35.41284,8.93089 9.18163,14.83074 2.84098,34.34957 -11.75505,42.96856 -17.67776,10.43875 -40.59226,2.83217 -50.52429,-14.57922 -11.70455,-20.51873 -2.82635,-46.84099 17.40339,-58.08001 23.35604,-12.9759 53.09375,-2.82252 65.63573,20.22755 14.251,26.19097 2.82008,59.34935 -23.05172,73.19146 -29.02426,15.52876 -65.607,2.81865 -80.74718,-25.87589 -16.80848,-31.85638 -2.81797,-71.86619 28.70006,-88.3029"
+       transform="scale(0.26458333)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#2b0000"
+       id="path662"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="213.90965"
+       sodipodi:cy="393.92929"
+       sodipodi:r1="34.45639"
+       sodipodi:r2="17.228195"
+       sodipodi:arg1="-2.7040024"
+       sodipodi:arg2="-2.0756838"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 182.6999,379.32812 22.87632,-0.47744 12.57563,-19.11564 7.52325,21.60914 22.06613,6.05307 -18.2267,13.83263 1.06199,22.85664 -18.78797,-13.06011 -21.40978,8.07311 6.6151,-21.90421 z"
+       transform="scale(0.26458333)"
+       inkscape:transform-center-x="-0.34684447"
+       inkscape:transform-center-y="-0.53406536" />
+  </g>
+</svg>
